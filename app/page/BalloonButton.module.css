@@ -1,0 +1,7 @@
+/* components/BalloonButton.module.css */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* This will make it full height of the viewport */
+}
